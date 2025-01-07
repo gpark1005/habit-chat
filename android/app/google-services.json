@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876319586585",
+    "project_id": "ai-habit-agent",
+    "storage_bucket": "ai-habit-agent.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876319586585:android:14c05f1fe38dbf6d3f2d88",
+        "android_client_info": {
+          "package_name": "com.habitagent.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4ete-wF_12tmvsDKEduaNOh2VqYmCqvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
